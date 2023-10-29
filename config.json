@@ -1,0 +1,31 @@
+{
+    "id": "YoloBitNTPExtention",
+    "extensionDisplay": {
+        "name": "gui.externalExtension.YoloBitNTPExtension.name",
+        "iconURL": "/images/ntp001.png",
+        "insetIconURL": "/images/ntp001.png",
+        "description": "gui.externalExtension.YoloBitNTPExtension.description"
+    },
+    "translate": {
+        "vi": {
+            "gui.externalExtension.YoloBitNTPExtension.name": "NTP",
+            "gui.externalExtension.YoloBitNTPExtension.description": "Mục mở rộng cho các khối lệnh đồng bộ thời gian mạng",
+            "gui.externalExtension.YoloBitNTPExtention.year" : "năm",
+            "gui.externalExtension.YoloBitNTPExtention.month" : "tháng",
+            "gui.externalExtension.YoloBitNTPExtention.day" : "ngày",
+            "gui.externalExtension.YoloBitNTPExtention.hour" : "giờ",
+            "gui.externalExtension.YoloBitNTPExtention.minute" : "phút",
+            "gui.externalExtension.YoloBitNTPExtention.second" : "giây"
+        },
+        "en": {
+            "gui.externalExtension.YoloBitNTPExtension.name": "NTP",
+            "gui.externalExtension.YoloBitNTPExtension.description": "NTP extension for Yolo:Bit",
+            "gui.externalExtension.YoloBitNTPExtention.year" : "year",
+            "gui.externalExtension.YoloBitNTPExtention.month" : "month",
+            "gui.externalExtension.YoloBitNTPExtention.day" : "day",
+            "gui.externalExtension.YoloBitNTPExtention.hour" : "hour",
+            "gui.externalExtension.YoloBitNTPExtention.minute" : "minute",
+            "gui.externalExtension.YoloBitNTPExtention.second" : "second"
+        }
+    }
+}
